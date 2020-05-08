@@ -9,7 +9,8 @@ Analyzing urban growth uncertainty of small cities in China using the SLEUTH CA 
 
 ## Description
 
-This repository contains all data that were used in the paper "Analyzing urban growth uncertainty of small cities in China using the SLEUTH CA and Machine learning models", by Jairo A. Gómez, Jorge E. Patiño, Juan C. Duque, and Santiago Passos.
+This repository contains all data that were used in the paper "Analyzing urban growth uncertainty of small cities in China using the SLEUTH CA and Machine learning models", by Jairo A. Gómez, ChengHe Guan, Juan C. Duque, Michael Keith,
+Jialin Liu and Santiago Passos.
 
 #### "Analyzing urban growth uncertainty of small cities in China using the SLEUTH CA and Machine learning models "
 
