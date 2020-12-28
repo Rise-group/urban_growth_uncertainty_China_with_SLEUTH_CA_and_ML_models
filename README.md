@@ -21,7 +21,7 @@ Jairo A. Gómez<sup>1</sup>, ChengHe Guan<sup>2</sup>, Pratyush Tripathy<sup>3<
  
 <sup>3</sup> Geospatial Lab, Indian Institute for Human Settlements. IIHS Bengaluru City Campus, 197/36, 2nd Main Road, Sadashivanagar, Bengaluru 560 080, India. pratyush@iihs.ac.in (P.T.).
  
-<sup>4</sup> Research in Spatial Economics (RiSE) Group, Department of Mathematical Sciences, EAFIT University, Carrera 48 A 10 Sur 107, Casa 4, oficina RiSE. Zip code 050022. Medellín, Antioquia, Colombia. jduquec1@eafit.edu.co (J.C.D.); spassos@eafit.edu.co (S.P.).\newline
+<sup>4</sup> Research in Spatial Economics (RiSE) Group, Department of Mathematical Sciences, EAFIT University, Carrera 48 A 10 Sur 107, Casa 4, oficina RiSE. Zip code 050022. Medellín, Antioquia, Colombia. jduquec1@eafit.edu.co (J.C.D.); spassos@eafit.edu.co (S.P.).
  
 <sup>5</sup> COMPAS, School of Anthropology, University of Oxford. 58 Banbury Road, Oxford, OX2 6QS. Oxford, UK. michael.keith@compas.ox.ac.uk (M.K).
 
