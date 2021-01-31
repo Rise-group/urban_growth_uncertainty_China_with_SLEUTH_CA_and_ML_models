@@ -9,7 +9,7 @@ Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions
 
 ## Description
 
-This repository contains all data used in the paper "Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions", by Jairo Alejandro Gómez, ChengHe Guan, Pratyush Tripathy, Juan Carlos Duque, Santiago Passos, Michael Keith and Jialin Liu.
+This repository contains all the data used in the paper “Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions” written by Jairo Alejandro Gómez, ChengHe Guan, Pratyush Tripathy, Juan Carlos Duque, Santiago Passos, Michael Keith, and Jialin Liu.
 
 #### "Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions"
 
