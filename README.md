@@ -9,15 +9,15 @@ Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions
 
 ## Description
 
-This repository contains all data used in the paper "Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions", by Jairo A. Gómez, ChengHe Guan, Pratyush Tripathy, Juan C. Duque, Santiago Passos, Michael Keith and Jialin Liu.
+This repository contains all data used in the paper "Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions", by Jairo Alejandro Gómez, ChengHe Guan, Pratyush Tripathy, Juan Carlos Duque, Santiago Passos, Michael Keith and Jialin Liu.
 
 #### "Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions"
 
-Jairo A. Gómez<sup>1</sup>, ChengHe Guan<sup>2</sup>, Pratyush Tripathy<sup>3</sup>, Juan C. Duque<sup>4</sup>, Santiago Passos<sup>4</sup>, Michael Keith<sup>5</sup> , Jialin Liu<sup>6</sup>
+Jairo Alejandro Gómez<sup>1</sup>, ChengHe Guan<sup>2</sup>, Pratyush Tripathy<sup>3</sup>, Juan Carlos Duque<sup>4</sup>, Santiago Passos<sup>4</sup>, Michael Keith<sup>5</sup> , Jialin Liu<sup>6</sup>
 
 <sup>1</sup> i2t Research Group, Department of Communication and Information Technologies, Universidad Icesi, Calle 18 No. 122-135, Pance. Zip code 760031. Cali, Valle del Cauca, Colombia. jagomez3@icesi.edu.co.
 
-<sup>2</sup> New York University Shanghai. 1555 Century Avenue, Pudong New District. Zip code 200122. Shanghai, China. chenghe.guan@nyu.edu.
+<sup>2</sup> Arts and Sciences, New York University Shanghai. 1555 Century Avenue, Pudong New District. Zip code 200122. Shanghai, China. chenghe.guan@nyu.edu.
  
 <sup>3</sup> Geospatial Lab, Indian Institute for Human Settlements. IIHS Bengaluru City Campus, 197/36, 2nd Main Road, Sadashivanagar, Bengaluru 560 080, India. pratyush@iihs.ac.in.
  
@@ -47,7 +47,7 @@ TITLE = {Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions},
 JOURNAL = {Remote Sensing},
 VOLUME = {1},
 YEAR = {2021},
-NUMBER = {0},
+NUMBER = {xx},
 ARTICLE-NUMBER = {1072855},
 URL = {xxxxxxxxxxxxxxxxxxxxxxxxxx},
 ISSN = {xxxxxxxxxxxxxx},
