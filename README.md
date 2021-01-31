@@ -42,7 +42,7 @@ With the availability of computational resources, geographical information syste
 
 ```tex
 @Article{Gomez2021,
-AUTHOR = {Gómez, Jairo A. and Guan, ChengHe and Tripathy, Pratyush and Duque, Juan C. and Passos, Santiago and Keith, Michael and Liu, Jialin},
+AUTHOR = {Gómez, Jairo Alejandro and Guan, ChengHe and Tripathy, Pratyush and Duque, Juan Carlos and Passos, Santiago and Keith, Michael and Liu, Jialin},
 TITLE = {Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions},
 JOURNAL = {Remote Sensing},
 VOLUME = {1},
