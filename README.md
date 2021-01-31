@@ -17,7 +17,7 @@ Jairo A. Gómez<sup>1</sup>, ChengHe Guan<sup>2</sup>, Pratyush Tripathy<sup>3<
 
 <sup>1</sup> i2t Research Group, Department of Communication and Information Technologies, Universidad Icesi, Calle 18 No. 122-135, Pance. Zip code 760031. Cali, Valle del Cauca, Colombia. jagomez3@icesi.edu.co.
 
-<sup>2</sup> New York University Shanghai. 1555 Century Avenue, Pudong New District. Zip code 200122. Shanghai, China. chenghe.guan@nyu.edu (C.G.); jialin.liu@nyu.edu.
+<sup>2</sup> New York University Shanghai. 1555 Century Avenue, Pudong New District. Zip code 200122. Shanghai, China. chenghe.guan@nyu.edu.
  
 <sup>3</sup> Geospatial Lab, Indian Institute for Human Settlements. IIHS Bengaluru City Campus, 197/36, 2nd Main Road, Sadashivanagar, Bengaluru 560 080, India. pratyush@iihs.ac.in.
  
