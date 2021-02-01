@@ -45,13 +45,13 @@ With the availability of computational resources, geographical information syste
 AUTHOR = {Gómez, Jairo Alejandro and Guan, ChengHe and Tripathy, Pratyush and Duque, Juan Carlos and Passos, Santiago and Keith, Michael and Liu, Jialin},
 TITLE = {Analyzing the Spatiotemporal Uncertainty in Urbanization Predictions},
 JOURNAL = {Remote Sensing},
-VOLUME = {1},
+VOLUME = {13},
 YEAR = {2021},
-NUMBER = {xx},
-ARTICLE-NUMBER = {1072855},
-URL = {xxxxxxxxxxxxxxxxxxxxxxxxxx},
-ISSN = {xxxxxxxxxxxxxx},
+NUMBER = {3},
+ARTICLE-NUMBER = {512},
+URL = {https://www.mdpi.com/2072-4292/13/3/512},
+ISSN = {2072-4292},
 ABSTRACT = {With the availability of computational resources, geographical information systems, and remote sensing data, urban growth modeling has become a viable tool for predicting urbanization of cities and towns, regions, and nations around the world. This information allows policy makers, urban planners, environmental and civil organizations to make investments, design infrastructure, extend public utility networks, plan housing solutions, and mitigate adverse environmental impacts. Despite its importance, urban growth models often discard the spatiotemporal uncertainties in their prediction estimates. In this paper, we analyzed the uncertainty in the urban land predictions by comparing the outcomes of two different growth models, one based on a widely applied cellular automata model known as the SLEUTH CA and the other one based on a previously published machine learning framework. We selected these two models because they are complementary, the first is based on human knowledge and pre-defined and understandable policies while the second is more data-driven and might be less influenced by any a priori knowledge or bias. To test our methodology, we chose the cities of Jiaxing and Lishui in China because they are representative of new town planning policies and have different characteristics in terms of land extension, geographical conditions, growth rates, and economic drivers. We focused on the spatiotemporal uncertainty, understood as the inherent doubt in the predictions of where and when will a piece of land become urban, using the concepts of certainty area in space and certainty area in time. The proposed analyses in this paper aim to contribute to better urban planning exercises, and they can be extended to other cities worldwide.},
-DOI = {XXXXXXX}
+DOI = {10.3390/rs13030512}
 }
 ```
